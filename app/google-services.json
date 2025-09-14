@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975670544679",
+    "project_id": "synlist-72a47",
+    "storage_bucket": "synlist-72a47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975670544679:android:5045dfd9b9722a0705c102",
+        "android_client_info": {
+          "package_name": "com.example.synlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi56VxVpTmNPk0v8cLFOhlkychmIP89c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
